@@ -1,0 +1,23 @@
+{
+  "name": "patika-react-homework1",
+  "version": "1.0.0",
+  "description": "patika-react-homework1",
+  "main": "index.js",
+  "type" :"module",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YavuzSelimBaydas/patika-react-homework1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YavuzSelimBaydas/patika-react-homework1/issues"
+  },
+  "homepage": "https://github.com/YavuzSelimBaydas/patika-react-homework1#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
